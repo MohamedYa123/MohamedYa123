@@ -70,7 +70,7 @@ MohamedYa123@github
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="100">
-<img src="https://i.ibb.co/TqygY2q/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solu.png" width="200">
+<img src="https://i.ibb.co/TqygY2q/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solu.png" width="150">
 <img src="https://i.ibb.co/rtvBj4Y/kisspng-java-runtime-environment-java-development-kit-comp-gucci-logo-5abf0c6d46d684-795386701522469.png" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
