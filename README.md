@@ -4,7 +4,7 @@ Hi, i'm Mohamed Yasser!
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=junior+frontend+developer;basic+UI+designer;freelancer;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+developer;Backend+developer;freelancer;&center=true&width=380&height=45"></a>
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=MohamedYa123&style=for-the-badge)
